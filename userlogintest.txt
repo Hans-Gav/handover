@@ -1,0 +1,4 @@
+superadmin1  superpassword
+admin1 adminpassword
+finance1 finance123
+teknisi1 tekpass123
